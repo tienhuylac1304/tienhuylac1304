@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="./profile_banner.png" width="100%">
-</p>
-
 # 👋 Hi, I'm Lac Tien Huy
 
 🎮 **Front-end Game Developer** passionate about building cross-platform games using **Cocos Creator**, **Unity**, and **TypeScript**.
