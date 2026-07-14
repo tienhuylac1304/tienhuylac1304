@@ -62,16 +62,18 @@ I enjoy creating gameplay systems, reusable game architectures, and optimizing p
 
 ---
 
-## 📊 GitHub Stats
+## 🎮 Featured Projects
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tienhuylac1304&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhuylac1304&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
+- 🐦 FlappyBirdCocos
+- 💣 BookOfMine  
+- 🧩 SpinAndMatch
+- 🥚 CatchingEgg
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tienhuylac1304&theme=tokyonight&hide_border=true"/>
-</p>
+## 🌐 Live Demo
+
+🐦 Flappy Bird
+
+https://tienhuylac1304.github.io/FlappyBirdCocosDemo/
 
 ---
 
